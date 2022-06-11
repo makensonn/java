@@ -1,3 +1,2 @@
-# java
-
-all of my java programs 
+# portfolio
+My portfolio
